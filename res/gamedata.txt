@@ -1,0 +1,15 @@
+17 19 11 2
+spawn_point 1 14
+spike 5 14
+spike 5 15
+spike 6 15
+spike 6 14
+spike 16 8
+spike 17 8
+stairs 15 1
+health_potion 13 9
+coins 8 10
+coins 9 5
+coins 13 5
+goblin 4 3
+goblin 10 5
